@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="S04-01-RatingDic:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/S04_01_RatingDic_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="S04-01-RatingDic/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
